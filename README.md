@@ -6,6 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Project View
+### Home Page
+On the home page, you can create a room ID with your name, and another person can copy that room ID, enter their name, and join the room for real-time code collaboration. This feature facilitates seamless and interactive teamwork, allowing you to code together efficiently and effectively.
+
+![Sync Code - Personal - Microsoft​ Edge 16-06-2024 00_56_15](https://github.com/Aditya206Singh/real_time_code_Editer/assets/114514314/f789124a-087b-4afc-8bd9-42f9ca09c247)
+
+### Editor Page
+On the Editor Page, multiple users can write code in various programming languages with syntax highlighting, using their favorite themes according to their preferences. After solving a problem, they can leave the room without affecting other room members. This feature promotes efficient and collaborative problem-solving by leveraging the collective knowledge and efforts of multiple users.
+
+![Sync Code - Personal - Microsoft​ Edge 16-06-2024 00_56_31](https://github.com/Aditya206Singh/real_time_code_Editer/assets/114514314/cf029681-bf09-4a5b-b3d4-6a456d9334a6)
+
 ### `npm start`
 
 Runs the app in the development mode.\
